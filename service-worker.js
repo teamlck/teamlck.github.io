@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.5.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "083bedaf3fda38c78381677fc3ac2930"
+    "revision": "c5bd412d36084afdabfb65af332ceee7"
   },
   {
     "url": "assets/css/0.styles.44379349.css",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "revision": "d8e1846e0b1669bcf2a38650b8709f1b"
   },
   {
-    "url": "assets/js/4.80594f73.js",
-    "revision": "939795a108927cece88152b64bf61b15"
+    "url": "assets/js/4.c07f393a.js",
+    "revision": "c9018855913a1a8397603e1920851e90"
   },
   {
     "url": "assets/js/5.29776ddd.js",
@@ -80,64 +80,64 @@ self.__precacheManifest = [
     "revision": "6ec049a04e30a5ce5813f6493f5cfa99"
   },
   {
-    "url": "assets/js/8.91ae2cdd.js",
-    "revision": "d75bc42b70102f9abf602180f075dd3b"
+    "url": "assets/js/8.f463ad9a.js",
+    "revision": "820cbcbd3f90c87e39ace525fe1c8c16"
   },
   {
     "url": "assets/js/9.0c2b6f1c.js",
     "revision": "ac9a296f945568058fa20488f54121cd"
   },
   {
-    "url": "assets/js/app.6fa3ae54.js",
-    "revision": "cf96b4f8dab03f9f5611c4042e5c548e"
+    "url": "assets/js/app.7579a4f8.js",
+    "revision": "ee12070aa8587fcbbfb4ca64d81d4d54"
   },
   {
     "url": "contribute.html",
-    "revision": "9da5a483a3067fc8078c21534f591b93"
+    "revision": "9ff3223d1fac0499135b1ffc3928f7b0"
   },
   {
     "url": "develop/index.html",
-    "revision": "1e272b65ff78e444b337d9c39f63dee2"
+    "revision": "96365d57c16c11e80eba647b0177a0fa"
   },
   {
     "url": "develop/semver.html",
-    "revision": "0d9aa8d1d84c521d176c4d996d16a3de"
+    "revision": "9d2547f286d43d7c32919bdac46b4e5b"
   },
   {
     "url": "en/contribute.html",
-    "revision": "13a56555c3fed96de833185c86c4a6a8"
+    "revision": "547e954dd3c21291aceeae226da6e7d1"
   },
   {
     "url": "en/develop/index.html",
-    "revision": "db5a928b9824bd50674541dc25121d7f"
+    "revision": "d7047eeaa94e4c36d12477e4e7c90376"
   },
   {
     "url": "en/develop/semver.html",
-    "revision": "b1a4c0ae69f4b7cc8e47e3f44aea95b7"
+    "revision": "b5c9b5153204ef6f10a803754eaea004"
   },
   {
     "url": "en/index.html",
-    "revision": "2193008ae26fe23d5b83ad851780325f"
+    "revision": "0efa68e86cf8ebf24d201b042a7a7595"
   },
   {
     "url": "en/raspberrypi/index.html",
-    "revision": "2286b5c653f9b28961455eb0655e55d1"
+    "revision": "6a2e0bb72d907c32d54538b239bc4cff"
   },
   {
     "url": "en/smart-analytics/index.html",
-    "revision": "6e3ea2c3d9a1d321e4b20b14107edfbf"
+    "revision": "cb84ce00d927a01e5394d51d1609dfdb"
   },
   {
     "url": "index.html",
-    "revision": "c125f58497fb770f87f2316da0393364"
+    "revision": "0a403108c5154320080883b38f458e0a"
   },
   {
     "url": "raspberrypi/index.html",
-    "revision": "35e577eb10e0ab742a252670d38494f4"
+    "revision": "f8b3120b26d73c0b36273f51560d791a"
   },
   {
     "url": "smart-analytics/index.html",
-    "revision": "b34d742320ba3e1a536900ccc2b86755"
+    "revision": "4918be5cc4af914432952dbf18f881ad"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
