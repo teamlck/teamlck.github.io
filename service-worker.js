@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.5.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "c8c7c2f85bbb6f1d143c31a1b7014074"
+    "revision": "e70c25311f1806cea928d1fb6684dbd4"
   },
   {
     "url": "assets/css/0.styles.44379349.css",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "revision": "aada17183a1a351b19d71d81bb0223f1"
   },
   {
-    "url": "assets/js/4.ca15bd43.js",
-    "revision": "dcefc5c7202d06e10fb3689cc5c5d5d2"
+    "url": "assets/js/4.58f0fd93.js",
+    "revision": "ff50ad4291479677c1d3940882159897"
   },
   {
     "url": "assets/js/5.9f1ed155.js",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "revision": "81e3d0d6ed51abf54dacbe3ede289b25"
   },
   {
-    "url": "assets/js/7.1a6f4dff.js",
-    "revision": "70955c4a627463d9a35814d00aabf3c2"
+    "url": "assets/js/7.22f6f73b.js",
+    "revision": "a3aeddf7f09c5bb323d9c5580274659f"
   },
   {
     "url": "assets/js/8.594ec09c.js",
@@ -80,36 +80,36 @@ self.__precacheManifest = [
     "revision": "155b30860642807a7186e897a39dc0b7"
   },
   {
-    "url": "assets/js/app.93bb2be6.js",
-    "revision": "d522be520299a203d348f92e4beca780"
+    "url": "assets/js/app.fde4c6a2.js",
+    "revision": "cb047e83f1a1dad2276e4d9b5e40c973"
   },
   {
     "url": "contribute.html",
-    "revision": "283da44552f07eedb0411c71fda55ad5"
+    "revision": "3f3eab9ae134d7e8321f638e5c643079"
   },
   {
     "url": "develop/index.html",
-    "revision": "afe03227373e014ba61e816555f18c46"
+    "revision": "f4e6818604639b298baae70c0e9824ef"
   },
   {
     "url": "en/contribute.html",
-    "revision": "827cd4bc10c0766b4cdcbb27c94170ff"
+    "revision": "7d49d0cd7379058542390a456bf61283"
   },
   {
     "url": "en/develop/index.html",
-    "revision": "62a81c2d88cd58bd53fdf9ddc9f5bfbf"
+    "revision": "dcf12b0cabbccb25532fae23d9749cb7"
   },
   {
     "url": "en/index.html",
-    "revision": "f17e110e771c6a35d677ba45e3abcb91"
+    "revision": "e4f38faa2370c9dd359bdb65f4550e57"
   },
   {
     "url": "en/raspberrypi/index.html",
-    "revision": "f4a940172dcabc1be472f7ddc8888f8c"
+    "revision": "c323f85bb5c988a39b48ad2a83d132b8"
   },
   {
     "url": "en/smart-analytics/index.html",
-    "revision": "6d89a003390973be5f6fe16fc933b456"
+    "revision": "31178ac6f9c661e4adac70f146c591da"
   },
   {
     "url": "icons/android-icon-144x144.png",
@@ -209,15 +209,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "cfc2193d19e5a84650a9b106e001e193"
+    "revision": "1bbc65c8e0ed2f42b865d0b9fb451e5f"
   },
   {
     "url": "raspberrypi/index.html",
-    "revision": "93ade9a9837e4c2cc1c0f7e44c1c4b9a"
+    "revision": "b128c61351eebe6285cad3b28ce7bdfa"
   },
   {
     "url": "smart-analytics/index.html",
-    "revision": "6f6a86e7cfc0c5dd336c8317c18318f0"
+    "revision": "b86c00f9e7b92e4e322deba5b509884c"
+  },
+  {
+    "url": "teamlck-logo.png",
+    "revision": "ad999f2643cc098aa913b95ebdde54ce"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
