@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.5.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "e70c25311f1806cea928d1fb6684dbd4"
+    "revision": "f9303553d609ee0413c6db6293fa5ad6"
   },
   {
     "url": "assets/css/0.styles.44379349.css",
@@ -80,36 +80,36 @@ self.__precacheManifest = [
     "revision": "155b30860642807a7186e897a39dc0b7"
   },
   {
-    "url": "assets/js/app.fde4c6a2.js",
-    "revision": "cb047e83f1a1dad2276e4d9b5e40c973"
+    "url": "assets/js/app.7d42d0c1.js",
+    "revision": "796e56f111f544359a5ee6a85d681570"
   },
   {
     "url": "contribute.html",
-    "revision": "3f3eab9ae134d7e8321f638e5c643079"
+    "revision": "baa3fdd398b6e59bf6149a1de2f3ef5f"
   },
   {
     "url": "develop/index.html",
-    "revision": "f4e6818604639b298baae70c0e9824ef"
+    "revision": "327e54f116014159d9023ddd0c2a4f29"
   },
   {
     "url": "en/contribute.html",
-    "revision": "7d49d0cd7379058542390a456bf61283"
+    "revision": "6f519e32467e49e5d1065feda09d721a"
   },
   {
     "url": "en/develop/index.html",
-    "revision": "dcf12b0cabbccb25532fae23d9749cb7"
+    "revision": "7896631228a3ae025626c7003fdfd8cb"
   },
   {
     "url": "en/index.html",
-    "revision": "e4f38faa2370c9dd359bdb65f4550e57"
+    "revision": "38fe215ed3189e4be45a7949eaa421f8"
   },
   {
     "url": "en/raspberrypi/index.html",
-    "revision": "c323f85bb5c988a39b48ad2a83d132b8"
+    "revision": "f91b480de6252b60be494ccf0aca52f5"
   },
   {
     "url": "en/smart-analytics/index.html",
-    "revision": "31178ac6f9c661e4adac70f146c591da"
+    "revision": "b28b6618912b80240e51159f5b65b324"
   },
   {
     "url": "icons/android-icon-144x144.png",
@@ -137,47 +137,47 @@ self.__precacheManifest = [
   },
   {
     "url": "icons/apple-icon-114x114.png",
-    "revision": "c4ce60fa4ef90bc7e1424701b64073f3"
+    "revision": "821907799192a7f9ce6c79a638192533"
   },
   {
     "url": "icons/apple-icon-120x120.png",
-    "revision": "877739ea05f22517ccefc7115fb809a9"
+    "revision": "63d6a028e233f770aec524f4665e690e"
   },
   {
     "url": "icons/apple-icon-144x144.png",
-    "revision": "203668d8f3939313bc76b454e73afb52"
+    "revision": "cf66828b10069ba14adb64cbc19dc999"
   },
   {
     "url": "icons/apple-icon-152x152.png",
-    "revision": "8e69bea97053235684d6a6ee1f9d5a24"
+    "revision": "216f06f6cc695f7ef29f8d210f57d44b"
   },
   {
     "url": "icons/apple-icon-180x180.png",
-    "revision": "e81f698e00cc7aa064b18478668d2b9b"
+    "revision": "c23b3d684b7bc1e10e7ba3c4a204a827"
   },
   {
     "url": "icons/apple-icon-57x57.png",
-    "revision": "9484a8afe7423d7f59073cca5d2e1feb"
+    "revision": "219a0fa10f3f135535d5d2d8c84d0476"
   },
   {
     "url": "icons/apple-icon-60x60.png",
-    "revision": "d17fec86239923629bf640300b5aa059"
+    "revision": "bf03188e919f4431e5aeeee71f9cf10b"
   },
   {
     "url": "icons/apple-icon-72x72.png",
-    "revision": "f3758f456f27cd6cf91804bafce62c49"
+    "revision": "27c60856c46f3ed2c08b4a30e80f2059"
   },
   {
     "url": "icons/apple-icon-76x76.png",
-    "revision": "f486d2df4dc7a12950b9e3b4ed399d0c"
+    "revision": "3e410dfdcd63aa2dea50eb4eb54b8378"
   },
   {
     "url": "icons/apple-icon-precomposed.png",
-    "revision": "bb876b46798bcb368c58cd6690262711"
+    "revision": "3b3fd384cf2a61f28926be805dde2221"
   },
   {
     "url": "icons/apple-icon.png",
-    "revision": "bb876b46798bcb368c58cd6690262711"
+    "revision": "3b3fd384cf2a61f28926be805dde2221"
   },
   {
     "url": "icons/favicon-16x16.png",
@@ -209,15 +209,15 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "1bbc65c8e0ed2f42b865d0b9fb451e5f"
+    "revision": "52cd8ba6dad8a16d030570b7cdb4862f"
   },
   {
     "url": "raspberrypi/index.html",
-    "revision": "b128c61351eebe6285cad3b28ce7bdfa"
+    "revision": "3171722f632f0b3450085d647bc6a916"
   },
   {
     "url": "smart-analytics/index.html",
-    "revision": "b86c00f9e7b92e4e322deba5b509884c"
+    "revision": "54e2c7a671f1e8cdfa01eeec40be0eb8"
   },
   {
     "url": "teamlck-logo.png",
